@@ -2,59 +2,59 @@
 test-cases:
   - summary: |
       Проверка поиска товара по ключевому слову
-  status: fail
+    status: fail
 
   - summary: |
       Проверка поиска товара по категории
-  status: pass
+    status: pass
   
   - summary: |
       Проверка поиска товара по бренду
-  status: fail
+    status: fail
  
   - summary: |
       Проверка поиска товара по нескольким брендам
-  status: fail
+    status: fail
   
   - summary: |
       Проверка сброса фильтра брендов
-  status: pass
+    status: pass
  
   - summary: |
       Проверка сброса выбора категории
-  status: pass
+    status: pass
     
   - summary: |
       Проверка поиска товара по позитивному сценарию фильтра цены
-  status: pass
+    status: pass
   
   - summary: |
       Проверка поиска товара по негативному сценарию фильтра цены
-  status: fail
+    status: fail
   
   - summary: |
       Проверка просмотра подробной информации товара
-  status: pass
+    status: pass
   
   - summary: |
       Проверка возможности добавления товара в корзину
-  status: pass
+    status: pass
   
   - summary: |
       Проверка возможности удаления товаров из корзины
-  status: pass
+    status: pass
   
   - summary: |
       Проверка возможности перелистывания страниц в списке товаров
-  status: pass
+    status: pass
  
   - summary: |
       Проверка мобильной версии
-  status: pass
+    status: pass
   
   - summary: |
       Проверка возможности зайти на сайт с последними версиями браузеров
-  status: pass
+    status: pass
 
 bugreports:
   - summary: |
